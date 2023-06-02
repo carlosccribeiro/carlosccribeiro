@@ -9,4 +9,4 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 Dedico meu tempo livre desenvolvendo projetos pessoais, esportes, musica, games e consumir conteúdos diversos como astronomia, cultura pop e desenvolvimento profissional.</p>
 
 ### No Place for Bravery  
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height="50px")](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&height="50")]([https://youtu.be/QP1fpfRPIFA](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/))
+[![YouTube Badge](https://i.imgur.com/0eSs8Wx.png)](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://i.imgur.com/mng2wAN.png)]([https://youtu.be/QP1fpfRPIFA](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/))
