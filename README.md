@@ -10,11 +10,8 @@ Dedico meu tempo livre desenvolvendo projetos pessoais, esportes, musica, games 
 
 ## Projetos que participei
 
-### No Place for Bravery
-
-[![Watch the video](https://i.ytimg.com/vi/QP1fpfRPIFA/maxresdefault.jpg)](https://youtu.be/QP1fpfRPIFA)
+### No Place for Bravery  
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height="50px")](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&height="50")]([https://youtu.be/QP1fpfRPIFA](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/))
 
 ### Amado
-
-[![Watch the video](https://i.ytimg.com/vi/3I1NB5XCN-g/maxresdefault.jpg)](https://youtu.be/3I1NB5XCN-g)
-<!---->
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height="50px")]([https://youtu.be/QP1fpfRPIFA](https://youtu.be/3I1NB5XCN-g))
