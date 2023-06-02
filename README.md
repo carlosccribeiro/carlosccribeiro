@@ -1,4 +1,4 @@
-# Carlos Ribeiro [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardoccribeiro/)
+# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/24/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)  [![Gmail Badge](https://icons.iconarchive.com/icons/martz90/circle/24/gmail-icon.png)](mailto:cadu.ccr@gmail.com)
 
 Web Developer and Game Developer 
 
@@ -11,4 +11,4 @@ Na área das artes, atuei da musica e no cinema. Participei da produção do lon
 Dedico meu tempo livre desenvolvendo projetos pessoais, esportes, musica, games e consumir conteúdos diversos como astronomia, cultura pop e desenvolvimento profissional.
 
 
-<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadu.ccr@gmail.com)-->
+<!---->
