@@ -1,4 +1,4 @@
-# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/24/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)
+# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)
 
 Solution Engineer, Web Developer and Game Developer 
 
