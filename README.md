@@ -1,4 +1,4 @@
-# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/24/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)  [![Gmail Badge](https://icons.iconarchive.com/icons/martz90/circle/24/gmail-icon.png)](mailto:cadu.ccr@gmail.com)
+# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/24/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)
 
 Web Developer and Game Developer 
 
