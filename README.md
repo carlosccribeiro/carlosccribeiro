@@ -1,6 +1,6 @@
 # Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/24/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)
 
-Web Developer and Game Developer 
+Solution Engineer, Web Developer and Game Developer 
 
 <p align="justify">Formação em Desenvolvimento de Jogos Digitais, atuo na área de segurança implementando soluções de proteção para empresas.
 Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e suporte da solução CrowdStrike, a qual possuo a certificação CCFA.</p>
