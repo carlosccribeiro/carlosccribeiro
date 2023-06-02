@@ -14,4 +14,4 @@ Dedico meu tempo livre desenvolvendo projetos pessoais, esportes, musica, games 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height="50px")](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&height="50")]([https://youtu.be/QP1fpfRPIFA](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/))
 
 ### Amado
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height="50px")]([https://youtu.be/QP1fpfRPIFA](https://youtu.be/3I1NB5XCN-g))
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&height="50px")](https://www.youtube.com/watch?v=Bnim65b2NLo)
