@@ -30,7 +30,7 @@ Minha trajetória combina visão estratégica e conhecimento técnico, o que me 
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Unity" title="Unity" width="36" height="36" /></a>
 
 ## No Place for Bravery
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1039100/header.jpg?t=1730740548" style="margin-bottom: 30px;"/>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1039100/header.jpg?t=1730740548" style="margin-left: 30px;"/>
 
 
 <p align="justify">Tive a oportunidade de atuar como estagiário no desenvolvimento do jogo No Place for Bravery, contribuindo em tarefas técnicas utilizando Unity com C#. Essa experiência me proporcionou contato direto com o processo de criação de um jogo independente de destaque, fortalecendo minhas habilidades em programação, resolução de problemas e colaboração em equipe de desenvolvimento.
