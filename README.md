@@ -9,7 +9,7 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 
 <p align="left">
 <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer">
-<img src="cs-logo.png" alt="CrowdStrike" title="CrowdStrike" width="36" height="36" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSBijPMOUyjTggEAw2DtCHu-CaSZ5mUS1UFg&s" alt="CrowdStrike" title="CrowdStrike" width="36" height="36" />
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
@@ -17,5 +17,6 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 
-### 🎮 No Place for Bravery  
+### 🎮 No Place for Bravery
+
 [![YouTube Badge](https://i.imgur.com/0eSs8Wx.png)](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://i.imgur.com/mng2wAN.png)](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/)
