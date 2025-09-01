@@ -26,7 +26,7 @@ Minha trajetória combina visão estratégica e conhecimento técnico, o que me 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Unity" title="Unity" width="36" height="36" /></a>
 
-### No Place for Bravery
+## No Place for Bravery
 
 <p align="justify">Tive a oportunidade de atuar como estagiário no desenvolvimento do jogo No Place for Bravery, contribuindo em tarefas técnicas utilizando Unity e C#. Essa experiência me proporcionou contato direto com o processo de criação de um jogo independente de destaque, fortalecendo minhas habilidades em programação, resolução de problemas e colaboração em equipe de desenvolvimento.
 
