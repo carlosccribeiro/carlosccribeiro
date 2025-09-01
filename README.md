@@ -2,7 +2,7 @@
 
 💻 Solution Engineer, Web Developer and Game Developer 
 
-<p align="justify">Com 14 anos de experiência em Tecnologia da Informação, atuo atualmente na área de Segurança da Informação como Engenheiro de Soluções. Minha principal função é projetar, implementar e dar suporte a soluções de proteção corporativa, ajudando empresas a fortalecerem sua postura de segurança cibernética.
+<p align="justify">Com 14 anos de experiência em Tecnologia da Informação, onde atuei por muito tempo como desenvolvedor e um pouco em infraestrutura, atuo atualmente na área de Segurança da Informação como Engenheiro de Soluções. Minha principal função é projetar, implementar e dar suporte a soluções de proteção corporativa, ajudando empresas a fortalecerem sua postura de segurança cibernética.
 
 Possuo sólida experiência na implementação, suporte e consultoria da plataforma CrowdStrike, onde detenho as certificações CCFA, CCFR e CCIS, além de conhecimento em Netskope onde detenho a certificação Netskope Administrator Accreditation.
 
