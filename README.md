@@ -1,4 +1,4 @@
-# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)[![Gmail Badge](https://images.icon-icons.com/730/PNG/512/gmail_icon-icons.com_62758.png)]()
+# Carlos Ribeiro [![Linkedin Badge](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)](https://www.linkedin.com/in/carloseduardoccribeiro/)<a href="mailto:carlos.ribeiro@nv7.com.br"><img src="https://icons.iconarchive.com/icons/martz90/circle/16/gmail-icon.png" alt="" title="" width="100" height="100" /></a>
 
 💻 Solution Engineer, Web Developer and Game Developer 
 
