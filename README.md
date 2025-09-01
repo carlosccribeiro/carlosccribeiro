@@ -16,7 +16,7 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+<a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 
 ### 🎮 No Place for Bravery
 
