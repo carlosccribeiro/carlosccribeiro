@@ -11,12 +11,13 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer"><img src="https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1728683045-falcon-logo-square-transparent.png&w=828&q=75" alt="CrowdStrike" title="CrowdStrike" width="36" height="36" /></a>
 <a href="https://www.netskope.com/" target="_blank" rel="noreferrer"><img src="https://marketplace.crowdstrike.com/listings/netskope-cloud-access-security-broker-for-falcon-logscale/_jcr_content/root/container/container/container_5568841932/container_6286107647/teaser_3597150757/.coreimg.png/1747326302847/netskope-icon-square.png" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node" title="Node" width="36" height="36" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Java Script" title="Java Script" width="36" height="36" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+<a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Unity" title="Unity" width="36" height="36" /></a>
 
 ### 🎮 No Place for Bravery
 
