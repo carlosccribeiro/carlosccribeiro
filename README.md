@@ -28,4 +28,6 @@ Minha trajetória combina visão estratégica e conhecimento técnico, o que me 
 
 ### No Place for Bravery
 
+<p align="justify">Tive a oportunidade de atuar como estagiário no desenvolvimento do jogo No Place for Bravery, contribuindo em tarefas técnicas utilizando Unity e C#. Essa experiência me proporcionou contato direto com o processo de criação de um jogo independente de destaque, fortalecendo minhas habilidades em programação, resolução de problemas e colaboração em equipe de desenvolvimento.
+
 [![YouTube Badge](https://i.imgur.com/0eSs8Wx.png)](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://i.imgur.com/mng2wAN.png)](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/)
