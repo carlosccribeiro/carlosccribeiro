@@ -5,7 +5,7 @@
 <p align="justify">Com 14 anos de atuação em tecnologia da informação, atualmente atuo na área de segurança da informação implementando soluções de proteção para empresas.
 Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e suporte da solução CrowdStrike, a qual possuo as certificações CCFA, CCIS e CCFR.</p>
 
-<img src="https://images.credly.com/images/e33aa2bf-afc3-4fcc-bc06-bb7cba40b7f8/twitter_thumb_201604_image.png" alt="" title="" width="126" height="128" /> <img src="https://images.credly.com/images/d963ddf2-c8eb-4437-8ddb-241b155d443a/image.png" alt="" title="" width="128" height="128" /> <img src="https://images.credly.com/images/59b18a42-ea5e-42fd-bd13-874f38988ec4/image.png" alt="" title="" width="126" height="128" />
+<img src="https://images.credly.com/images/e33aa2bf-afc3-4fcc-bc06-bb7cba40b7f8/twitter_thumb_201604_image.png" alt="" title="" width="100" height="128" /> <img src="https://images.credly.com/images/d963ddf2-c8eb-4437-8ddb-241b155d443a/image.png" alt="" title="" width="128" height="128" /> <img src="https://images.credly.com/images/59b18a42-ea5e-42fd-bd13-874f38988ec4/image.png" alt="" title="" width="100" height="128" />
   
 ## Meus conhecimentos 
 
