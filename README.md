@@ -4,7 +4,7 @@
 
 <p align="justify">Com 14 anos de experiência em Tecnologia da Informação, atuo atualmente na área de Segurança da Informação como Engenheiro de Soluções. Minha principal função é projetar, implementar e dar suporte a soluções de proteção corporativa, ajudando empresas a fortalecerem sua postura de segurança cibernética.
 
-Possuo sólida experiência na implementação, suporte e consultoria da plataforma CrowdStrike, onde detenho as certificações CCFA, CCFR e CCIS, além de conhecimento em Netskope a qual detenho a certificação Netskope Administrator Accreditation.
+Possuo sólida experiência na implementação, suporte e consultoria da plataforma CrowdStrike, onde detenho as certificações CCFA, CCFR e CCIS, além de conhecimento em Netskope onde detenho a certificação Netskope Administrator Accreditation.
 
 Minha trajetória combina visão estratégica e conhecimento técnico, o que me permite atuar tanto no desenho de arquiteturas seguras, quanto no suporte em ambientes críticos, sempre alinhado às melhores práticas do mercado e às necessidades de negócio dos clientes.</p>
 
