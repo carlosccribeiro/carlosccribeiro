@@ -5,7 +5,7 @@
 <p align="justify">Com 14 anos de atuação em tecnologia da informação, atualmente atuo na área de segurança da informação implementando soluções de proteção para empresas.
 Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e suporte da solução CrowdStrike, a qual possuo as certificações CCFA, CCIS e CCFR.</p>
   
-## 🚀 Meus conhecimentos
+## Meus conhecimentos
 
 <p align="left">
 <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer"><img src="https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1728683045-falcon-logo-square-transparent.png&w=828&q=75" alt="CrowdStrike" title="CrowdStrike" width="36" height="36" /></a>
