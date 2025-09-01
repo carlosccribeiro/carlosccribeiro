@@ -5,7 +5,7 @@
 <p align="justify">Com 14 anos de atuação em tecnologia da informação, atualmente atuo na área de segurança da informação implementando soluções de proteção para empresas.
 Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e suporte da solução CrowdStrike, a qual possuo as certificações CCFA, CCIS e CCFR.</p>
   
-## Meus conhecimentos
+## Meus conhecimentos 
 
 <p align="left">
 <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer"><img src="https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1728683045-falcon-logo-square-transparent.png&w=828&q=75" alt="CrowdStrike" title="CrowdStrike" width="36" height="36" /></a>
@@ -13,6 +13,7 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node" title="Node" width="36" height="36" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Java Script" title="Java Script" width="36" height="36" /></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" title="C#" width="36" height="36" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
