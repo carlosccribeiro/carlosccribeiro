@@ -19,6 +19,6 @@ Trabalho na NV7, onde atuo como Engenheiro de Soluções na implementação e su
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" alt="Unity" title="Unity" width="36" height="36" /></a>
 
-### 🎮 No Place for Bravery
+### No Place for Bravery
 
 [![YouTube Badge](https://i.imgur.com/0eSs8Wx.png)](https://youtu.be/QP1fpfRPIFA)  [![Steam Badge](https://i.imgur.com/mng2wAN.png)](https://store.steampowered.com/app/1039100/No_Place_for_Bravery/)
